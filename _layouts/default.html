@@ -27,7 +27,9 @@
           </h1>
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="site-description">
+          {{ site.description | default: site.github.project_tagline }}
+        </p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -43,7 +45,7 @@
 
       </section>
       <footer>
-        <p><small>Посетете ни на <a href="https://algerahealth.com">Algera Health</a></small></p>
+        <p class="visit-us"><small>Посетете ни на <a href="https://algerahealth.com">Algera Health</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
