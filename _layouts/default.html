@@ -28,7 +28,11 @@
             </h1>
         {% endif %}
 
-        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="header">
+            <a href="{{ "/" | absolute_url }}">
+                {{ site.description | default: site.github.project_tagline }}
+            </а>
+        </p>
 
         <ul>
             {% if site.show_downloads %}
