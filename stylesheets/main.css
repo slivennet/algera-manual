@@ -1,3 +1,23 @@
+.wrapper {
+    margin-left: 270px;
+    padding: 0 20px;
+}
+
+header {
+    width: 270px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh; /* Full height */
+}
+
+section {
+    width: auto;
+    padding-bottom: 50px;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
 header .site-description {
     text-align: center;
     font-style: italic;
