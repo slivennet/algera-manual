@@ -1,9 +1,26 @@
 @import "{{ site.theme }}";
 
+header {
+  background-color: transparent;
+  border: 0;
+}
+
+header img {
+  border: 0;
+}
+
+.header {
+  color: #009cc3;
+}
+
 a {
   color: #009cc3;
 }
 
 footer p small {
   font-size: 10px;
+}
+
+img {
+  border: solid 1px #009cc3;
 }
