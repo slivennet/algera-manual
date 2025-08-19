@@ -34,6 +34,6 @@
   [![Как да запазя преглед при доктор](images/kak-da-zapazya-pregled-pri-doktor-07.png)](images/kak-da-zapazya-pregled-pri-doktor-07.png)
 
 1. Платете с карта или от личния портфейл
-  [![Как да запазя преглед при доктор](images/kak-da-zapazya-pregled-pri-doktor-07.png)](images/kak-da-zapazya-pregled-pri-doktor-07.png)
+  [![Как да запазя преглед при доктор](images/kak-da-zapazya-pregled-pri-doktor-08.png)](images/kak-da-zapazya-pregled-pri-doktor-08.png)
 
 1. Следва докторът да приеме вашата заявка за прегледа
