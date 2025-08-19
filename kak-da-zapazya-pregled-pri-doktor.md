@@ -10,20 +10,30 @@
 1. Как да заявите преглед 
   - [Влезте в профила си](https://manual.algerahealth.com/vhod)
   - Отворете "Намери доктор" или "Мои доктори" (ако вече сте посещавали този доктор)
-  - В профила на избрания доктор натиснете "Запази час"
+  [![Как да запазя преглед при доктор](images/kak-da-zapazya-pregled-pri-doktor-01.png)](images/kak-da-zapazya-pregled-pri-doktor-01.png)
+
+1. В профила на избрания доктор натиснете "Запази час".
+  [![Как да запазя преглед при доктор](images/kak-da-zapazya-pregled-pri-doktor-02.png)](images/kak-da-zapazya-pregled-pri-doktor-02.png)
    
 1. **Стъпка 1**: Изберете желан тип преглед (Видео консултация / Текстова консултация / Преглед на място).
+  [![Как да запазя преглед при доктор](images/kak-da-zapazya-pregled-pri-doktor-03-1.png)](images/kak-da-zapazya-pregled-pri-doktor-03-1.png)
 
 1. **Стъпка 2**: Изберете желаната дата и час за провеждане на прегледа.
+  [![Как да запазя преглед при доктор](images/kak-da-zapazya-pregled-pri-doktor-03-2.png)](images/kak-da-zapazya-pregled-pri-doktor-03-2.png)
    
 1. **Стъпка 3**: Попълнете Причина за консултацията. При желание можете да прикачите файл.
+  [![Как да запазя преглед при доктор](images/kak-da-zapazya-pregled-pri-doktor-04.png)](images/kak-da-zapazya-pregled-pri-doktor-04.png)
 
 1. **Стъпка 4**: Изберете начин на плащане.
+  [![Как да запазя преглед при доктор](images/kak-da-zapazya-pregled-pri-doktor-05.png)](images/kak-da-zapazya-pregled-pri-doktor-05.png)
 
 1. **Стъпка 5**: Прегледайте цялата информация за прегледа и натиснете "Изпрати".
+  [![Как да запазя преглед при доктор](images/kak-da-zapazya-pregled-pri-doktor-06.png)](images/kak-da-zapazya-pregled-pri-doktor-06.png)
 
 1. Ще получите потвърждение на екрана и известие в имейла си
-   
+  [![Как да запазя преглед при доктор](images/kak-da-zapazya-pregled-pri-doktor-07.png)](images/kak-da-zapazya-pregled-pri-doktor-07.png)
+
 1. Платете с карта или от личния портфейл
+  [![Как да запазя преглед при доктор](images/kak-da-zapazya-pregled-pri-doktor-07.png)](images/kak-da-zapazya-pregled-pri-doktor-07.png)
 
 1. Следва докторът да приеме вашата заявка за прегледа
