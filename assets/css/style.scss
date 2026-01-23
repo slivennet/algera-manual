@@ -41,7 +41,7 @@ p img {
 }
 
 .video-wrapper {
-  width: 100vw;
+  width: auto;
   height: 100vh;
   overflow: hidden;
   position: relative;
@@ -52,4 +52,3 @@ video {
   height: 100%;
   object-fit: cover;
 }
-
