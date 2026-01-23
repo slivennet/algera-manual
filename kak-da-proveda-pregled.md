@@ -8,7 +8,7 @@
     [![Как да проведа преглед](images/kak-da-proveda-pregled-02.png)](images/kak-da-proveda-pregled-02.png)
   - Уверете се, че камерата и микрофонът ви са включени. Разрешете достъпа до тях и натиснете бутона "Join meeting"
     [![Как да проведа преглед](images/kak-da-proveda-pregled-03.png)](images/kak-da-proveda-pregled-03.png)
-  - Вижте демото:
+  - Вижте демото за провеждане на видео преглед:
     {% include embed-video.html name="kak-da-proveda-video-pregled.mp4" %}
 
 1. За Онлайн Текстова консултация:
