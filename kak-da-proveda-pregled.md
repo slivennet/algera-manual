@@ -8,6 +8,8 @@
     [![Как да проведа преглед](images/kak-da-proveda-pregled-02.png)](images/kak-da-proveda-pregled-02.png)
   - Уверете се, че камерата и микрофонът ви са включени. Разрешете достъпа до тях и натиснете бутона "Join meeting"
     [![Как да проведа преглед](images/kak-da-proveda-pregled-03.png)](images/kak-da-proveda-pregled-03.png)
+  - Вижте видеото:
+  {% include embed-video.html name="kak-da-proveda-video-pregled.mp4" %}
 
 1. За Онлайн Текстова консултация:
   - Веднага след като специалистът приеме консултацията, можете да започнете да пишете в чата.
@@ -15,7 +17,3 @@
 1. За присъствен преглед:
   - Отидете на посочения адрес навреме.
   - Носете личен документ и нужните медицински документи (или прикачи техни дигитални копия към прегледа в Algera Health).
-
-1. Вижте и това кратко видео:
-
-{% include embed-video.html name="kak-da-proveda-video-pregled.mp4" %}
