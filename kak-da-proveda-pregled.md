@@ -9,7 +9,7 @@
   - Уверете се, че камерата и микрофонът ви са включени. Разрешете достъпа до тях и натиснете бутона "Join meeting"
     [![Как да проведа преглед](images/kak-da-proveda-pregled-03.png)](images/kak-da-proveda-pregled-03.png)
   - Вижте демото:
-  {% include embed-video.html name="kak-da-proveda-video-pregled.mp4" %}
+    {% include embed-video.html name="kak-da-proveda-video-pregled.mp4" %}
 
 1. За Онлайн Текстова консултация:
   - Веднага след като специалистът приеме консултацията, можете да започнете да пишете в чата.
