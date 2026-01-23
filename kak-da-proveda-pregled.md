@@ -18,4 +18,4 @@
 
 1. Вижте и това кратко видео:
 
-[![Как да проведа преглед](https://www.youtube.com/shorts/iYchE8snq94)](https://www.youtube.com/shorts/iYchE8snq94)
+{% include embed-video.html name="kak-da-proveda-video-pregled.mp4" %}
