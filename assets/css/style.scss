@@ -41,8 +41,8 @@ p img {
 }
 
 .video-wrapper {
-  max-width: 360px;
-  height: auto;
+  width: auto;
+  height: 80vh;
   overflow: hidden;
   position: relative;
 }
@@ -50,5 +50,5 @@ p img {
 video {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
