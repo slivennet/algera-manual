@@ -1,5 +1,11 @@
 # Как да проведа преглед
 
+## Демо: Как да проведа видео преглед
+
+{% include embed-video.html name="kak-da-proveda-video-pregled.mp4" %}
+
+## Стъпки за провеждане на прегледи
+
 1. За Онлайн Видео консултация:
   - [Влезте](https://manual.algerahealth.com/vhod) в профила си поне 5 минути преди началото. 
   - Отворете "Прегледи" и намерете запазения час.
@@ -8,8 +14,6 @@
     [![Как да проведа преглед](images/kak-da-proveda-pregled-02.png)](images/kak-da-proveda-pregled-02.png)
   - Уверете се, че камерата и микрофонът ви са включени. Разрешете достъпа до тях и натиснете бутона "Join meeting"
     [![Как да проведа преглед](images/kak-da-proveda-pregled-03.png)](images/kak-da-proveda-pregled-03.png)
-  - Вижте демото за провеждане на видео преглед:  
-    {% include embed-video.html name="kak-da-proveda-video-pregled.mp4" %}
 
 1. За Онлайн Текстова консултация:
   - Веднага след като специалистът приеме консултацията, можете да започнете да пишете в чата.
