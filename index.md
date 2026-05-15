@@ -2,6 +2,8 @@
 
 [https://algerahealth.com](https://algerahealth.com)
 
+[See this page in English](https://manual.algerahealth.com/en)
+
 ## Основни функционалности на платформата за телемедицина Algera Health
 
 1. [Регистрация](https://manual.algerahealth.com/registratsiya)
