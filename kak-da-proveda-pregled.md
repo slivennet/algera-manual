@@ -1,5 +1,7 @@
 # Как да проведа преглед
 
+[See this page in English](https://manual.algerahealth.com/en/how-to-conduct-a-medical-examination)
+
 ## Демо: Как да проведа видео преглед
 
 {% include embed-video.html name="kak-da-proveda-video-pregled.mp4" %}
