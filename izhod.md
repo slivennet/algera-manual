@@ -1,11 +1,9 @@
 # Изход
 
+[See this page in English](https://manual.algerahealth.com/en/logout)
+
 1. Щракнете върху иконата на профила си (горен десен ъгъл)
-
   [![Иконка на профила](images/izhod-01.png)](images/izhod-01.png)
-
 1. Изберете "Изход" от изскачащото меню
-
   [![Изход](images/izhod-02.png)](images/izhod-02.png)
-
 1. След излизане ще бъдете върнати на началната страница

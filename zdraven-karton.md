@@ -1,5 +1,7 @@
 # Здравен картон
 
+[See this page in English](https://manual.algerahealth.com/en/health-record)
+
 Съхранява цялата медицинска информация в дигитален вид.
 
 1. Файлове 

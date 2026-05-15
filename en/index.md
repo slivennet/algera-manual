@@ -14,7 +14,7 @@
 1. [Dashboard](https://manual.algerahealth.com/en/dashboard)
 1. [Calendar](https://manual.algerahealth.com/en/calendar)
 1. [Chat](https://manual.algerahealth.com/en/chat)
-1. [Find doctor](https://manual.algerahealth.com/en/find-doctor)
+1. [Find a doctor](https://manual.algerahealth.com/en/find-a-doctor)
 1. [My doctors](https://manual.algerahealth.com/en/my-doctors)
 1. [Health record](https://manual.algerahealth.com/en/health-record)
 1. [Doctor profile](https://manual.algerahealth.com/en/doctor-profile)

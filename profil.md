@@ -1,5 +1,7 @@
 # Профил
 
+[See this page in English](https://manual.algerahealth.com/en/profile)
+
 Разделът "Настройки на профила" позволява управление на личната ви информация.
 
 [![Настройки на профила](images/profil-01.png)](images/profil-01.png)

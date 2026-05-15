@@ -1,5 +1,7 @@
 # Портфейл
 
+[See this page in English](https://manual.algerahealth.com/en/wallet)
+
 Разделът "Портфейл" служи за проследяване на плащанията.
 
 [![Портфейл](images/portfeyl-01.png)](images/portfeyl-01.png)

@@ -1,8 +1,10 @@
 # Регистрация
 
+[See this page in English](https://manual.algerahealth.com/en/registration)
+
 1. Отворете [app.algerahealth.com](https://app.algerahealth.com)
-1. Натиснете линка "Регистрирайте се!" под панела за вход.
-  [![Линк за регистрация](images/registratsiya-01.png)](images/registratsiya-01.png)
+1. Натиснете бутона "Регистрация"
+  [![Бутон за регистрация](images/registratsiya.png)](images/registratsiya.png)
 1. Изберете "Регистрация като пациент"
   [![Регистрация като пациент](images/registratsiya-02.png)](images/registratsiya-02.png)
 1. Попълнете полетата (задължителните полета са отбелязани със звезда)
